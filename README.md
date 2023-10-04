@@ -1,6 +1,8 @@
 # Chines_Poem_Generation
 A nice and easy poem generation transformer model using minGPT. 
 Main file is transformer_demo.py
+
+
 Sample Output: from prompt "中秋"
 中秋月」白居易
 　　万里清光不可思，添愁益恨绕天涯，谁人陇外久征戍，
