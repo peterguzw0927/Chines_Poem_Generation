@@ -1,6 +1,7 @@
 # Chines_Poem_Generation
 A nice and easy poem generation transformer model using minGPT. 
 Main file is transformer_demo.py
+Training data set is libai.txt. Containing 1,000,000 words of Chinese poems
 
 
 Sample Output: from prompt "中秋"
